@@ -1,0 +1,14 @@
+{
+  "themes": [
+    {
+      "name": "Stone Cold Steve Austin",
+      "audio": "stone_cold_final.mp3",
+      "video": "stone_cold_final.mp4"
+    },
+    {
+      "name": "Ultimate Warrior",
+      "audio": "ultimate_warrior_final.mp3",
+      "video": "stone_cold_final.mp4"
+    }
+  ]
+}
