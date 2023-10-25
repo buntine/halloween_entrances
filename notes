@@ -1,0 +1,5 @@
+Convert webm to mp4: ffmpeg -i in.webm out.mp4
+
+Cut video: ffmpeg -i in.mp4 -ss 00:00:00 -t 00:01:05 -c:v copy -c:a copy out.mp4
+Cut audio: ffmpeg -i in.mp3 -ss 00:00:00 -t 00:01:05 -c:a copy out.mp3
+Fade audio: ffmpeg -i in.mp3 -af "afade=out:st=60:d=5" out.mp3
