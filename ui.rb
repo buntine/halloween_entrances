@@ -96,11 +96,11 @@ loop do
       sleep(1)
     end
 
-    a_pid = spawn("mpg123 -q #{@selected["audio"]}")
+    a_pid = spawn("mpg123 -q data/#{@selected["audio"]}")
     Process.detach(a_pid)
 
     _, v_w = IO.pipe
-    v_pid = Process.spawn("vlc --fullscreen --play-and-exit --no-audio --verbose 0 --no-osd --video-on-top --no-video-title-show #{@selected["video"]}", out: v_w, err: [:child, :out])
+    v_pid = Process.spawn("vlc --fullscreen --play-and-exit --no-audio --verbose 0 --no-osd --video-on-top --no-video-title-show data/#{@selected["video"]}", out: v_w, err: [:child, :out])
     v_w.close
     Process.detach(v_pid)
 
