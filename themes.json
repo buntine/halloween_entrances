@@ -6,9 +6,89 @@
       "video": "stone_cold_final.mp4"
     },
     {
-      "name": "Ultimate Warrior",
-      "audio": "ultimate_warrior_final.mp3",
+      "name": "Ric Flair",
+      "audio": "ric_flair_final.mp3",
+      "video": "ric_flair_final.mp4"
+    },
+    {
+      "name": "Owen Hart",
+      "audio": "owen_hart_final.mp3",
+      "video": "owen_hart_final.mp4"
+    },
+    {
+      "name": "Bret 'The Hitman' Hart",
+      "audio": "bret_hart_final.mp3",
+      "video": "bret_hart_final.mp4"
+    },
+    {
+      "name": "Too Cool",
+      "audio": "too_cool_final.mp3",
+      "video": "too_cool_final.mp4"
+    },
+    {
+      "name": "Mankind",
+      "audio": "mankind_final.mp3",
+      "video": "mankind_final.mp4"
+    },
+    {
+      "name": "I.R.S",
+      "audio": "irs_final.mp3",
+      "video": "irs_final.mp4"
+    },
+    {
+      "name": "Stone Cold Steve Austin",
+      "audio": "stone_cold_final.mp3",
       "video": "stone_cold_final.mp4"
+    },
+    {
+      "name": "Brutus 'The Barber' Beefcake",
+      "audio": "brutus_beefcake.mp3",
+      "video": "brutus_beefcake.mp4"
+    },
+    {
+      "name": "Zoya The Destroya",
+      "audio": "zoya_the_destroya.mp3",
+      "video": "zoya_the_destroya.mp4"
+    },
+    {
+      "name": "Goldust",
+      "audio": "goldust.mp3",
+      "video": "goldust.mp4"
+    },
+    {
+      "name": "X-Pac",
+      "audio": "x_pac.mp3",
+      "video": "x_pac.mp4"
+    },
+    {
+      "name": "Jake 'The Snake' Roberts",
+      "audio": "jake_the_snake.mp3",
+      "video": "jake_the_snake.mp4"
+    },
+    {
+      "name": "The Rock",
+      "audio": "the_rock.mp3",
+      "video": "the_rock.mp4"
+    },
+    {
+      "name": "Herb Hebner",
+      "audio": "herb_hebner.mp3",
+      "video": "herb_hebner.mp4"
+    },
+    {
+      "name": "Gangrel",
+      "audio": "gangrel.mp3",
+      "video": "gangrel.mp4"
+    },
+    {
+      "name": "Razor Ramon",
+      "audio": "razor_ramon.mp3",
+      "video": "razor_ramon.mp4"
+    },
+    {
+      "name": "Chris Jericho",
+      "audio": "chris_jericho.mp3",
+      "video": "chris_jericho.mp4"
     }
   ]
 }

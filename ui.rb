@@ -9,7 +9,7 @@ themes = JSON.parse(File.read(File.expand_path("themes.json")))["themes"]
 
 MAX_INDEX = themes.length - 1
 MIN_INDEX = 0
-VIEWPORT_SIZE = 15
+VIEWPORT_SIZE = 20
 SONG_LENGTH = 65
 
 @index = 0
