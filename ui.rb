@@ -5,7 +5,9 @@ require 'json'
 
 include Curses
 
-themes = JSON.parse(File.read(File.expand_path("themes.json")))["themes"]
+themes = JSON.parse(File.read(File.expand_path("themes.json")))["themes"].sort_by do |theme|
+  theme["name"]
+end
 
 MAX_INDEX = themes.length - 1
 MIN_INDEX = 0
