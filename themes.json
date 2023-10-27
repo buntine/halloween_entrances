@@ -71,7 +71,7 @@
       "video": "the_rock_final.mp4"
     },
     {
-      "name": "Herb Hebner",
+      "name": "Earl Hebner",
       "audio": "herb_hebner_final.mp3",
       "video": "herb_hebner_final.mp4"
     },
@@ -89,6 +89,11 @@
       "name": "Chris Jericho",
       "audio": "chris_jericho_final.mp3",
       "video": "chris_jericho_final.mp4"
+    },
+    {
+      "name": "The Undertaker",
+      "audio": "the_undertaker_final.mp3",
+      "video": "the_undertaker_final.mp4"
     }
   ]
 }
